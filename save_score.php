@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 
 $servername = "localhost";
 $username = "oyun1";
-$password = "Keles1905.";
+$password = "x.";
 $dbname = "oyun1"; // Veritabanı adını değiştirebilirsiniz
 
 // Veritabanı bağlantısı
