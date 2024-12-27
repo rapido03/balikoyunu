@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "oyun1";
-$password = "Keles1905.";
+$password = "x.";
 $dbname = "oyun1";
 
 // Veritabanı bağlantısı
